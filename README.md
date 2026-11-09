@@ -1,4 +1,4 @@
-# 🎰 HighLowUltimate - Casino Card Scanner & Predictor
+# HighLowUltimate - Casino Card Scanner & Predictor
 
 **HighLowUltimate** adalah script pembantu (helper tool) berbasis **SAMP Moonloader (Lua)** dan **Python** yang dirancang khusus untuk mempermudah pemain dalam membaca sistem permainan kasino **High or Low** (Tebak Kartu) di server *State Side Roleplay (SSRP)*.
 
@@ -6,7 +6,7 @@ Script ini otomatis memindai kartu yang keluar melalui TextDraw server, mencatat
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - 🔍 **Auto TextDraw Scanner:** Membaca kartu yang dikeluarkan oleh dealer kasino secara otomatis tanpa input manual.
 - 🧮 **Real-time Probability Engine:** Menghitung sisa kartu dalam deck standar (52 kartu) untuk memberikan persentase kemenangan langkah berikutnya.
@@ -30,7 +30,7 @@ HighLowUltimate/
 
 ---
 
-## 🚀 Petunjuk Instalasi & Cara Pakai
+## Petunjuk Instalasi & Cara Pakai
 
 ### 1. Memasang Script Lua (Moonloader)
 1. Pastikan GTA SA-MP Anda sudah terpasang **Moonloader** dan **SAMPFuncs**.
